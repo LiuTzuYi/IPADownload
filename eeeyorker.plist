@@ -1,0 +1,48 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://reaker.oss-cn-beijing.aliyuncs.com/demo/ios/Reaker-last.ipa?Expires=1545206073&OSSAccessKeyId=TMP.AQHOhnadLs9CZ_d44N3A9T21rJxaGYxt7VPooIlqiuKz-VwzpJbiIhdo8EJJADAtAhRxkb5HlTtN86ziz3vJcq3lHi5-5QIVAI9kMM8xhTLodqTENNzo7dUWusdQ&Signature=FFKIo18Sm3rKRO7dqyxzaH8Qva8%3D</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xxxx.demo</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>EeeYorker Download</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
